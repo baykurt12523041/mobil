@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="Türk Ulusal",TR:TRT 1 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/787a6f9f-0337-4634-9d49-3d2b94ce5b86.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 HD [YEDEK]" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="Türk Ulusal",TR:TRT 1 HD [YEDEK]
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/aea62a30-956a-4c9a-a868-c4c04443cb5f.m3u
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="Türk Ulusal",TR:TRT 1 HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/05ef32a4-827d-4e20-87f8-37892492aec6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT AVAZ HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trtavaz.png" group-title="Türk Ulusal",TR:TRT AVAZ HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/3ea55b07-ade2-4414-b0d6-bb8982f04e38.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:ATV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="Türk Ulusal",TR:ATV HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/c71b4e75-87a1-4048-a388-2f7fc5e5c07b.m3u
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR:ATV HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="Türk Ulusal",TR:ATV HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/8f46cd5d-e996-4ba3-a71c-198480f5e288.m3u
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" group-title="Türk Ulusal",TR:SHOW TV HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/863ca7ee-7fa2-420f-b744-d79411dc8d02.m3u
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" group-title="Türk Ulusal",TR:SHOW TV HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/8967ed39-36de-4918-aab1-cd2cc89ea714.m3u
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR:STAR TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" group-title="Türk Ulusal",TR:STAR TV HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/eee14005-6d67-4c76-a51d-cfc8b6ff2748.m3u
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR:STAR TV HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" group-title="Türk Ulusal",TR:STAR TV HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/d4cddc47-b636-4c78-959c-d187ac7d58aa.m3u
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR:KANAL D HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" group-title="Türk Ulusal",TR:KANAL D HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/04c4ae0e-8d3f-4f03-a9b7-5cb1fa7d2380.m3u
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR:KANAL D HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" group-title="Türk Ulusal",TR:KANAL D HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/09c65780-4e4e-4139-b5f4-c77c2fc5ea96.m3u
+#EXTINF:-1 tvg-id="Now.tr" tvg-name="TR:NOW HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="Türk Ulusal",TR:NOW HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/3e46da80-1a93-42cb-9828-66e3639f68b0.m3u
+#EXTINF:-1 tvg-id="Now.tr" tvg-name="TR:NOW HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="Türk Ulusal",TR:NOW HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/ae1ebbbd-b523-4ea0-9a17-4abfddb1203d.m3u
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="Türk Ulusal",TR:TV 8 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/91683518-cc66-4ec5-9b96-895f5ca21fd6.m3u
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="Türk Ulusal",TR:TV 8 HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/4ca1fee9-2ade-4e5a-87ce-945253971ed3.m3u
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR:TV 8.5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="Türk Ulusal",TR:TV 8.5 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/7d6b0ed1-410e-4028-a7d7-bf65b4e63345.m3u
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR:BEYAZ TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="Türk Ulusal",TR:BEYAZ TV HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/0933cb1e-e299-4872-aee2-8d40e6d08cf4.m3u
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR:BEYAZ TV HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="Türk Ulusal",TR:BEYAZ TV HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/37cbf863-1460-4b5b-90d3-ffdab6145a58.m3u
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="Türk Ulusal",TR:KANAL 7 HQ
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/55520b91-9b37-4149-9254-07700b623283.m3u
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="Türk Ulusal",TR:KANAL 7 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/6a62ba0b-d7f9-4f25-9b90-2466a9c9e020.m3u
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="TR:TEVE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="Türk Ulusal",TR:TEVE 2 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/111ea128-bd26-43df-911e-e269f64d98fa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/a2.png" group-title="Türk Ulusal",TR:A2 HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/b20484c4-742b-4024-992c-0ecbdaad70ea.m3u
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR:360 TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/360tv.png" group-title="Türk Ulusal",TR:360 TV HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/d34204b7-8ccc-42b7-84c8-60446c440146.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:BI KANAL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/bikanal.png" group-title="Türk Ulusal",TR:BI KANAL HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/1d89fcfc-70bd-4ea2-bfd3-a22be55aaf2e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TYT TURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tytturk.png" group-title="Türk Ulusal",TR:TYT TURK HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/244eb57d-660d-4896-8abc-06e119f6f701.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:ATV AVRUPA HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atveuro.png" group-title="Türk Ulusal",TR:ATV AVRUPA HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/30a9c801-5672-4f9b-a615-c63f00043e9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:EURO D HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanaldeuro.png" group-title="Türk Ulusal",TR:EURO D HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/65303807-6d5a-4400-ac78-78d643b6946f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:EURO STAR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/eurostar.png" group-title="Türk Ulusal",TR:EURO STAR HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/6874722e-dec9-4e91-a6ce-b2755a2aa0f7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 INT HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8int.png" group-title="Türk Ulusal",TR:TV 8 INT HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/6b530b2d-cafe-471b-8077-a7965076dd0f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT EU HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tgrteu.png" group-title="Türk Ulusal",TR:TGRT EU HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/6db70281-f49f-40ec-8b14-4106ebaf5e66.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT EBA LISE HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/ebalise.png" group-title="Türk Ulusal",TR:TRT EBA LISE HD
+http://vip2.lidyasardesiptv.live/live/wKvm40jS/y6mDMh5b/b103e0bd-3997-4164-ac74-73f343cc004e.m3u
