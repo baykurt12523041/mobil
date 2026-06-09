@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 channel-id="373935" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| TÜRKIYE 4K TV",###### TÜRKIYE TV 4K ######
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/373935.ts
+#EXTINF:-1 tvg-id="ATV.tr" channel-id="281613" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1985.jpg?9938" group-title="TR| TÜRKIYE 4K TV",TR: ATV HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/281613.ts
+#EXTINF:-1 channel-id="4539" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/882.jpg?13545" group-title="TR| TÜRKIYE 4K TV",TR: ATV Avrupa
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4539.ts
+#EXTINF:-1 tvg-id="StarTV.tr" channel-id="8705" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/856.png?23326" group-title="TR| TÜRKIYE 4K TV",TR: Star TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8705.ts
+#EXTINF:-1 tvg-id="StarTV.tr" channel-id="282262" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/856.png?72547" group-title="TR| TÜRKIYE 4K TV",TR: Star TV HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/282262.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" channel-id="8690" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2318.jpg?63125" group-title="TR| TÜRKIYE 4K TV",TR: Show TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8690.ts
+#EXTINF:-1 tvg-id="KanalD.tr" channel-id="282273" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/833.jpg?25530" group-title="TR| TÜRKIYE 4K TV",TR: Kanal D HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/282273.ts
+#EXTINF:-1 tvg-id="now.tr" channel-id="282383" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14861.png?82039" group-title="TR| TÜRKIYE 4K TV",TR: NOW HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/282383.ts
+#EXTINF:-1 tvg-id="Kanal7.tr" channel-id="282384" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/894.jpg?67813" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 7 HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/282384.ts
+#EXTINF:-1 tvg-id="TV8.tr" channel-id="8678" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?95322" group-title="TR| TÜRKIYE 4K TV",TR: TV8 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8678.ts
+#EXTINF:-1 channel-id="942083" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?95322" group-title="TR| TÜRKIYE 4K TV",TR: TV8 HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/942083.ts
+#EXTINF:-1 channel-id="942084" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?95322" group-title="TR| TÜRKIYE 4K TV",TR: TV8 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/942084.ts
+#EXTINF:-1 channel-id="3384" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3308.jpg?36121" group-title="TR| TÜRKIYE 4K TV",TR: Euro Star
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3384.ts
+#EXTINF:-1 channel-id="3368" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/893.jpg?49484" group-title="TR| TÜRKIYE 4K TV",TR: Euro D
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3368.ts
+#EXTINF:-1 tvg-id="TRT1.tr" channel-id="4535" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13558.jpg?16238" group-title="TR| TÜRKIYE 4K TV",TR: TRT 1 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4535.ts
+#EXTINF:-1 tvg-id="TRT1.tr" channel-id="281612" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/879.jpg?3221" group-title="TR| TÜRKIYE 4K TV",TR: TRT 1 HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/281612.ts
+#EXTINF:-1 tvg-id="Kanal7.tr" channel-id="4536" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/894.jpg?99289" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 7 Avrupa 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4536.ts
+#EXTINF:-1 tvg-id="BeyazTV.tr" channel-id="3442" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/954.jpg?25396" group-title="TR| TÜRKIYE 4K TV",TR: BEYAZ TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3442.ts
+#EXTINF:-1 channel-id="19981" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/889.jpg?75980" group-title="TR| TÜRKIYE 4K TV",TR: Teve 2 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/19981.ts
+#EXTINF:-1 tvg-id="Showmax.tr" channel-id="8708" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/835.jpg?51463" group-title="TR| TÜRKIYE 4K TV",TR: Show Max
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8708.ts
+#EXTINF:-1 tvg-id="a2tv.tr" channel-id="8725" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/858.jpg?3216" group-title="TR| TÜRKIYE 4K TV",TR: A2 Turkiya 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8725.ts
+#EXTINF:-1 tvg-id="tv85.tr" channel-id="8686" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/859.jpg?68542" group-title="TR| TÜRKIYE 4K TV",TR: TV8.5 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8686.ts
+#EXTINF:-1 tvg-id="TV8.tr" channel-id="3366" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?82685" group-title="TR| TÜRKIYE 4K TV",TR: TV 8 INT
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3366.ts
+#EXTINF:-1 tvg-id="TV8.tr" channel-id="19982" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?72942" group-title="TR| TÜRKIYE 4K TV",TR: TV 8 International
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/19982.ts
+#EXTINF:-1 tvg-id="TRTDiyanet.tr" channel-id="301132" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11516.jpg?22338" group-title="TR| TÜRKIYE 4K TV",TR: TRT Diyanet TV HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/301132.ts
+#EXTINF:-1 tvg-id="TRTTurk.tr" channel-id="4533" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/918.png?82308" group-title="TR| TÜRKIYE 4K TV",TR: TRT Turk 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4533.ts
+#EXTINF:-1 tvg-id="TRTWorld.tr" channel-id="4529" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/486.png?14146" group-title="TR| TÜRKIYE 4K TV",TR: TRT World 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4529.ts
+#EXTINF:-1 channel-id="3425" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/945.jpg?26393" group-title="TR| TÜRKIYE 4K TV",TR: TGRT EU
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3425.ts
+#EXTINF:-1 channel-id="3426" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/938.jpg?82535" group-title="TR| TÜRKIYE 4K TV",TR: TGRT Belgesel
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3426.ts
+#EXTINF:-1 channel-id="8687" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/865.jpg?41543" group-title="TR| TÜRKIYE 4K TV",TR: 360 TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8687.ts
+#EXTINF:-1 tvg-id="TV100.tr" channel-id="8733" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/876.jpg?74027" group-title="TR| TÜRKIYE 4K TV",TR: RumeliTV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8733.ts
+#EXTINF:-1 channel-id="764644" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/978.jpg?ver=37556" group-title="TR| TÜRKIYE 4K TV",TR: Al Turkmenia TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/764644.ts
+#EXTINF:-1 channel-id="764643" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1348.jpg?ver=75779" group-title="TR| TÜRKIYE 4K TV",TR: TURKMENELI TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/764643.ts
+#EXTINF:-1 tvg-id="UlusalKanal.tr" channel-id="8722" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/853.jpg?59571" group-title="TR| TÜRKIYE 4K TV",TR: Ulusal Kanal
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8722.ts
+#EXTINF:-1 channel-id="8710" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/837.jpg?76066" group-title="TR| TÜRKIYE 4K TV",TR: Blommberg HT 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8710.ts
+#EXTINF:-1 channel-id="281791" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/837.jpg?44592" group-title="TR| TÜRKIYE 4K TV",TR: Blommberg HT HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/281791.ts
+#EXTINF:-1 channel-id="3395" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13558.jpg?55752" group-title="TR| TÜRKIYE 4K TV",TR: BRT 1 KKTC 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3395.ts
+#EXTINF:-1 tvg-id="01TV.fr" channel-id="3396" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13558.jpg?55752" group-title="TR| TÜRKIYE 4K TV",TR: BRT 2 KKTC 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3396.ts
+#EXTINF:-1 channel-id="3430" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/951.jpg?7112" group-title="TR| TÜRKIYE 4K TV",TR: Akit TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3430.ts
+#EXTINF:-1 channel-id="3436" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/947.jpg?70667" group-title="TR| TÜRKIYE 4K TV",TR: Kon TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3436.ts
+#EXTINF:-1 tvg-id="24.tr" channel-id="8700" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1079.jpg?6185" group-title="TR| TÜRKIYE 4K TV",TR: 24 TV 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8700.ts
+#EXTINF:-1 channel-id="200365" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/647.jpg?ver=27022" group-title="TR| TÜRKIYE 4K TV",TR: LALEGUL
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200365.ts
+#EXTINF:-1 tvg-id="CNNTurk.tr" channel-id="3365" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?18357" group-title="TR| TÜRKIYE 4K TV",TR: CNN Turk 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3365.ts
+#EXTINF:-1 channel-id="3437" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/959.jpg?5112" group-title="TR| TÜRKIYE 4K TV",TR: Altas TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3437.ts
+#EXTINF:-1 channel-id="3435" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/950.jpg?41364" group-title="TR| TÜRKIYE 4K TV",TR: BENGUTURK
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3435.ts
+#EXTINF:-1 channel-id="8718" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/850.jpg?55129" group-title="TR| TÜRKIYE 4K TV",TR: BRTV Karabuk
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8718.ts
+#EXTINF:-1 channel-id="3414" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8043.jpg?70608" group-title="TR| TÜRKIYE 4K TV",TR: ER TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3414.ts
+#EXTINF:-1 channel-id="3444" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11294.jpg?98844" group-title="TR| TÜRKIYE 4K TV",TR: Gonca TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3444.ts
+#EXTINF:-1 channel-id="8717" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/847.jpg?16996" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 15
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8717.ts
+#EXTINF:-1 channel-id="8731" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/943.jpg?71246" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 33
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8731.ts
+#EXTINF:-1 channel-id="3438" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/957.jpg?40565" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 42
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3438.ts
+#EXTINF:-1 tvg-id="KanalB.tr" channel-id="3440" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/952.jpg?10631" group-title="TR| TÜRKIYE 4K TV",TR: Kanal B
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3440.ts
+#EXTINF:-1 channel-id="3427" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?31965" group-title="TR| TÜRKIYE 4K TV",TR: Kanal V
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3427.ts
+#EXTINF:-1 channel-id="8713" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/862.jpg?49621" group-title="TR| TÜRKIYE 4K TV",TR: ULKE TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8713.ts
+#EXTINF:-1 channel-id="8723" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/855.jpg?64004" group-title="TR| TÜRKIYE 4K TV",TR: Mavi Karad
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8723.ts
+#EXTINF:-1 channel-id="3416" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/932.jpg?35002" group-title="TR| TÜRKIYE 4K TV",TR: Mavi Karadeniz
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3416.ts
+#EXTINF:-1 channel-id="8732" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/868.jpg?55163" group-title="TR| TÜRKIYE 4K TV",TR: On 4
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8732.ts
+#EXTINF:-1 channel-id="3415" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3131.jpg?53620" group-title="TR| TÜRKIYE 4K TV",TR: RTV Kanal 23
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3415.ts
+#EXTINF:-1 channel-id="3422" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/935.jpg?59752" group-title="TR| TÜRKIYE 4K TV",TR: Sat 7 Turk
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3422.ts
+#EXTINF:-1 tvg-id="Haberturk.tr" channel-id="301473" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/948.jpg?54547" group-title="TR| TÜRKIYE 4K TV",TR: Turk Haber
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/301473.ts
+#EXTINF:-1 channel-id="3419" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/933.jpg?85006" group-title="TR| TÜRKIYE 4K TV",TR: TV 41
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3419.ts
+#EXTINF:-1 channel-id="3413" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/892.jpg?19847" group-title="TR| TÜRKIYE 4K TV",TR: TV DEN HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3413.ts
+#EXTINF:-1 channel-id="3434" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7813.jpg?19716" group-title="TR| TÜRKIYE 4K TV",TR: TV Kayseri
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3434.ts
+#EXTINF:-1 channel-id="8682" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/832.png?10807" group-title="TR| TÜRKIYE 4K TV",TR: TV2 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8682.ts
+#EXTINF:-1 channel-id="8684" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/674.jpg?42837" group-title="TR| TÜRKIYE 4K TV",TR: TV4 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/8684.ts
+#EXTINF:-1 channel-id="110719" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/907.jpg?80111" group-title="TR| TÜRKIYE 4K TV",TR: TRT EBA TV ORTAOKUL
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/110719.ts
+#EXTINF:-1 tvg-id="TRTAvaz.tr" channel-id="652778" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/909.png?36096" group-title="TR| TÜRKIYE 4K TV",TR: TRT AVAZ TV HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/652778.ts
+#EXTINF:-1 channel-id="246281" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6303.jpg?74170" group-title="TR| TÜRKIYE 4K TV",TR: ES TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/246281.ts
+#EXTINF:-1 channel-id="590911" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1875.jpg?30472" group-title="TR| TÜRKIYE 4K TV",TR: Ekinturk TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/590911.ts
+#EXTINF:-1 channel-id="595832" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7698.jpg?3997" group-title="TR| TÜRKIYE 4K TV",TR: Dost TV
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/595832.ts

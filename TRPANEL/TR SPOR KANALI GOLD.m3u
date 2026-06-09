@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 channel-id="868636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD ʜᴅ ##
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868636.ts
+#EXTINF:-1 channel-id="868635" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 1 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868635.ts
+#EXTINF:-1 channel-id="868634" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 2 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868634.ts
+#EXTINF:-1 channel-id="868633" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 3 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868633.ts
+#EXTINF:-1 channel-id="868632" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?85306" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 1 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868632.ts
+#EXTINF:-1 channel-id="868631" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?85306" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 2 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868631.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" channel-id="868630" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/908.png?7548" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868630.ts
+#EXTINF:-1 channel-id="868629" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8184.jpg?66430" group-title="TR| SPOR KANALI GOLD",GOLD: A SPOR ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868629.ts
+#EXTINF:-1 tvg-id="SportsTV.tr" channel-id="868628" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/871.png?62719" group-title="TR| SPOR KANALI GOLD",GOLD: SPORTS TV ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868628.ts
+#EXTINF:-1 channel-id="868627" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?20438" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 1 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868627.ts
+#EXTINF:-1 channel-id="868626" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?20438" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 2 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868626.ts
+#EXTINF:-1 tvg-id="FBTV.tr" channel-id="868625" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?94666" group-title="TR| SPOR KANALI GOLD",GOLD: FB TV ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868625.ts
+#EXTINF:-1 channel-id="868624" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14210.png?90753" group-title="TR| SPOR KANALI GOLD",GOLD: HTSPOR ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868624.ts
+#EXTINF:-1 channel-id="868623" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4727.jpg?59341" group-title="TR| SPOR KANALI GOLD",GOLD: NBA TV ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868623.ts
+#EXTINF:-1 tvg-id="TRT3SporTBMMTV.tr" channel-id="868622" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11924.png?44553" group-title="TR| SPOR KANALI GOLD",GOLD: TRT 3 SPOR ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868622.ts
+#EXTINF:-1 tvg-id="TrtSporYildiz.tr" channel-id="868621" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/840.jpg?96092" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR YILDIZ ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868621.ts
+#EXTINF:-1 tvg-id="Eurosport1.tr" channel-id="868620" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?34558" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 1 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868620.ts
+#EXTINF:-1 tvg-id="Eurosport2.tr" channel-id="868619" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/627.jpg?80761" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 2 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868619.ts
+#EXTINF:-1 channel-id="868618" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10618.jpg?40991" group-title="TR| SPOR KANALI GOLD",GOLD: KANAL 26 ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868618.ts
+#EXTINF:-1 channel-id="868617" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8117.png?39897" group-title="TR| SPOR KANALI GOLD",GOLD: EDGE SPORT ʜᴅ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868617.ts
+#EXTINF:-1 channel-id="868616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD SD ##
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868616.ts
+#EXTINF:-1 channel-id="868615" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?87499" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 1 SD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868615.ts
+#EXTINF:-1 channel-id="868614" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?87499" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 2 SD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868614.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" channel-id="868613" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/908.png?8337" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR SD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868613.ts
+#EXTINF:-1 tvg-id="TrtSporYildiz.tr" channel-id="868612" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/840.jpg?14743" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR YILDIZ SD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868612.ts
+#EXTINF:-1 channel-id="868611" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8184.jpg?14009" group-title="TR| SPOR KANALI GOLD",GOLD: A SPOR SD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868611.ts
+#EXTINF:-1 channel-id="868610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD RAW ##
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868610.ts
+#EXTINF:-1 channel-id="868609" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?84327" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 1 RAW
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868609.ts
+#EXTINF:-1 channel-id="868608" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?ver=64189" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 2 RAW
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/868608.ts

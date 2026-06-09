@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 channel-id="374148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| BELGESEL 4K",###### BELGESEL 4K ######
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/374148.ts
+#EXTINF:-1 channel-id="19985" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6563.jpg?74585" group-title="TR| BELGESEL 4K",TR: Dmax Turk 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/19985.ts
+#EXTINF:-1 tvg-id="ViasatHistoryNature.tr" channel-id="200353" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1439.jpg?34415" group-title="TR| BELGESEL 4K",TR: VIASAT HISTORY
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200353.ts
+#EXTINF:-1 channel-id="587195" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/720.jpg?3859" group-title="TR| BELGESEL 4K",TR: VIASAT EXPLORE HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/587195.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" channel-id="200346" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?2892" group-title="TR| BELGESEL 4K",TR: DISCOVERY CHANNEL HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200346.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" channel-id="200347" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?70052" group-title="TR| BELGESEL 4K",TR: DISCOVERY SCIENCE HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200347.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" channel-id="200361" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?82103" group-title="TR| BELGESEL 4K",TR: DISCOVERY SCIENCE
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200361.ts
+#EXTINF:-1 tvg-id="DiscoveryIDXtra.tr" channel-id="200348" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7937.jpg?76162" group-title="TR| BELGESEL 4K",TR: DISCOVERY ID 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200348.ts
+#EXTINF:-1 tvg-id="NatGeo.tr" channel-id="200362" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?10428" group-title="TR| BELGESEL 4K",TR: NAT GEO 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200362.ts
+#EXTINF:-1 tvg-id="NatGeo.tr" channel-id="200332" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/59.jpg?68410" group-title="TR| BELGESEL 4K",TR: NAT GEO HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200332.ts
+#EXTINF:-1 channel-id="200364" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6621.png?98967" group-title="TR| BELGESEL 4K",TR: NAT GEO PEOPLE
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200364.ts
+#EXTINF:-1 tvg-id="NatGeoWild.tr" channel-id="200363" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/735.jpg?24850" group-title="TR| BELGESEL 4K",TR: NAT GEO WILD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200363.ts
+#EXTINF:-1 tvg-id="BBCEarth.tr" channel-id="200352" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?97462" group-title="TR| BELGESEL 4K",TR: BBC EARTH
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200352.ts
+#EXTINF:-1 channel-id="587194" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?90113" group-title="TR| BELGESEL 4K",TR: HISTORY 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/587194.ts
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" channel-id="4532" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/910.jpg?59877" group-title="TR| BELGESEL 4K",TR: TRT Belgelel 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/4532.ts
+#EXTINF:-1 tvg-id="TLC.tr" channel-id="157588" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?63458" group-title="TR| BELGESEL 4K",TR: TLC 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/157588.ts
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" channel-id="3389" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/910.jpg?43027" group-title="TR| BELGESEL 4K",TR: TRT BELGESEL 4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/3389.ts
+#EXTINF:-1 tvg-id="TLC.tr" channel-id="281702" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?68838" group-title="TR| BELGESEL 4K",TR: TLC HD
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/281702.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.tr" channel-id="200355" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?63163" group-title="TR| BELGESEL 4K",TR: ANIMAL PLANET
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/200355.ts
+#EXTINF:-1 channel-id="736326" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6088.jpg?30833" group-title="TR| BELGESEL 4K",TR: Love Nature  4K
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/736326.ts

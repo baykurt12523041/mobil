@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 channel-id="1007240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| TABII SPORT ᴿᴬᵂ",####### TABII SPORT ᴿᴬᵂ #######
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007240.ts
+#EXTINF:-1 channel-id="1069950" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1069950.ts
+#EXTINF:-1 channel-id="1007239" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007239.ts
+#EXTINF:-1 channel-id="1007238" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007238.ts
+#EXTINF:-1 channel-id="1007237" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007237.ts
+#EXTINF:-1 channel-id="1007236" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007236.ts
+#EXTINF:-1 channel-id="1007235" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 5 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007235.ts
+#EXTINF:-1 channel-id="1007234" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 6 ᴿᴬᵂ
+http://pro.most8knew.com:80/live/08dca6383aaf/24bd086582/1007234.ts
